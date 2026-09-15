@@ -14,8 +14,10 @@ Las etapas de analisis son las siguientes: Cargar → Explorar → Detectar prob
 
 ## Abrir el notebook en Google Colab:
 Abre en [Google Colab](https://colab.research.google.com/drive/1dp1dzzftRMGFCjh8UIzlZ7jKf_Y_ygdu?usp=sharing)
+O
+Abre el archivo `S7 Version-Estudiante-Project-ConnectaTel.ipynb` en GitHub
 
 ## Cómo reproducir el análisis
 1. Abre `S7 Version-Estudiante-Project-ConnectaTel.ipynb`
 2. Ejecuta las celdas en orden
-3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
+3. Observa los insights finales
